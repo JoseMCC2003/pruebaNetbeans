@@ -19,6 +19,7 @@ public class fdlkmg {
         // TODO code application logic here
         System.out.println("hola");
         System.out.println("Aprendiendo git en netbeans");
+        System.out.println("adios");
     }
     
 }
